@@ -1,5 +1,5 @@
 # RiskierRain
-A very messy and unfinished mod for Risk of Rain 2 written in C++
+A very messy proof of concept mod for Risk of Rain 2 written in C++.
 
 Change speed, jump, skill cooldown, etc. Also supports inputting character IDs and playing as any character, including enemies and bosses. This used to work in multiplayer without having to be host, by changing the JIL before it is compiled, but has broken since the 1.0 update.
 
